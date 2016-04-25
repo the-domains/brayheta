@@ -4,7 +4,7 @@
         <description><![CDATA[jewellery]]></description>
         <link>https://thegrid.ai/brayheta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 11:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 11:07:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brayheta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brayheta/eef88c67-58cd-421c-9809-da81672094ff/index.html</link>
             <guid isPermaLink="false">eef88c67-58cd-421c-9809-da81672094ff</guid>
             <pubDate>Mon, 25 Apr 2016 09:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sterling Silver & Bronze Dragon Rings]]></title>
+            <description><![CDATA[<article><h1>Sterling Silver & Bronze Dragon Rings</h1><p>Uploaded by Anthony Bray-Heta on 2015-06-13.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/814f45c3610ae1300050b6094a4f6823d4ecc9e7.jpg"></article>]]></description>
+            <link>https://youtu.be/m30A2TViOt4</link>
+            <guid isPermaLink="false">2b20fed9-562f-4747-a38c-436e058fa14d</guid>
+            <pubDate>Mon, 25 Apr 2016 11:07:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dragon Cuff YouTube]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/xcp3oHY9vXs</link>
             <guid isPermaLink="false">1b7f5248-d43a-449f-ac23-a9131590c2d3</guid>
             <pubDate>Mon, 25 Apr 2016 11:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unity of Aroha]]></title>
-            <description><![CDATA[<article><h1>Unity of Aroha</h1><p>Uploaded by Anthony Bray-Heta on 2015-08-04.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bfaa95f84421f8cf80f6740b3ec971e9a7459b9.jpg"></article>]]></description>
-            <link>https://youtu.be/C22rUA1ssFA</link>
-            <guid isPermaLink="false">5b5e2150-7761-431b-903c-3900809864eb</guid>
-            <pubDate>Mon, 25 Apr 2016 11:01:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
