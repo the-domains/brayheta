@@ -14,8 +14,8 @@ description: www.tribalcreations.com.au
 app_links: []
 isBasedOnUrl: 'https://youtu.be/Is5nea-p4mw'
 title: Koru Ring YouTube
-datePublished: '2016-04-25T10:46:25.096Z'
-dateModified: '2016-04-25T10:45:14.164Z'
+datePublished: '2016-04-25T11:08:24.206Z'
+dateModified: '2016-04-25T10:54:22.976Z'
 starred: false
 sourcePath: _posts/2016-04-25-koru-ring-youtube.md
 published: true
