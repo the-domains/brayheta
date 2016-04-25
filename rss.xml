@@ -4,7 +4,7 @@
         <description><![CDATA[jewellery]]></description>
         <link>https://thegrid.ai/brayheta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 11:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 11:09:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brayheta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brayheta/eef88c67-58cd-421c-9809-da81672094ff/index.html</link>
             <guid isPermaLink="false">eef88c67-58cd-421c-9809-da81672094ff</guid>
             <pubDate>Mon, 25 Apr 2016 09:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moko Pendants & Matching Rings]]></title>
+            <description><![CDATA[<article><h1>Moko Pendants & Matching Rings</h1><p>Uploaded by Anthony Bray-Heta on 2015-06-30.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9efca0a7689210ae4f2d8764128eaba248034e6a.jpg"></article>]]></description>
+            <link>https://youtu.be/ZaxQggXisq4</link>
+            <guid isPermaLink="false">3707c294-1cf7-4e04-8c93-bbdd7f57fb9f</guid>
+            <pubDate>Mon, 25 Apr 2016 11:08:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Moko Rings YouTube]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/b-V3GFmuzjs</link>
             <guid isPermaLink="false">3e76f720-73bd-421a-9d0f-12bf36fbd2b5</guid>
             <pubDate>Mon, 25 Apr 2016 11:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dragon Pendants YouTube]]></title>
-            <description><![CDATA[<article><h1>Dragon Pendants YouTube</h1><p>www.tribalcreations.com.au</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5f102039c2decc2a24d56dd19bd2710a62dd8e0.jpg"></article>]]></description>
-            <link>https://youtu.be/spSI-LOM-RI</link>
-            <guid isPermaLink="false">0f8d9a4d-a314-4130-9f2c-2f04e6871854</guid>
-            <pubDate>Mon, 25 Apr 2016 11:06:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
