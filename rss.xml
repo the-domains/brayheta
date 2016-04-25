@@ -4,7 +4,7 @@
         <description><![CDATA[jewellery]]></description>
         <link>https://thegrid.ai/brayheta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 11:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 11:07:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brayheta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brayheta/eef88c67-58cd-421c-9809-da81672094ff/index.html</link>
             <guid isPermaLink="false">eef88c67-58cd-421c-9809-da81672094ff</guid>
             <pubDate>Mon, 25 Apr 2016 09:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dragon Cuff YouTube]]></title>
+            <description><![CDATA[<article><h1>Dragon Cuff YouTube</h1><p>www.tribalcreations.com.au</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6899d208c1fa9c4b8d329be045bb63fe213632b.jpg"></article>]]></description>
+            <link>https://youtu.be/6ltXQ0_nAsE</link>
+            <guid isPermaLink="false">83a87e33-eb4c-4cad-bf1b-9ed79018ec11</guid>
+            <pubDate>Mon, 25 Apr 2016 11:06:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dragon Bangle YouTube]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/C22rUA1ssFA</link>
             <guid isPermaLink="false">5b5e2150-7761-431b-903c-3900809864eb</guid>
             <pubDate>Mon, 25 Apr 2016 11:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tangaroa's Ocean Unfolding]]></title>
-            <description><![CDATA[<article><h1>Tangaroa's Ocean Unfolding</h1><p>Uploaded by Anthony Bray-Heta on 2015-06-26.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73513c158ce2b54e924f1f114f21377cd4f1849e.jpg"></article>]]></description>
-            <link>https://youtu.be/y1_-6duYvoI</link>
-            <guid isPermaLink="false">cf3d7ffa-9b23-4965-b145-8e378f9d4459</guid>
-            <pubDate>Mon, 25 Apr 2016 11:00:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
