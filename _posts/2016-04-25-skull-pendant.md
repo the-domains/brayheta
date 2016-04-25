@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/7clpHsIOMzM'
 title: Skull Pendant
-datePublished: '2016-04-25T10:52:02.032Z'
-dateModified: '2016-04-25T09:56:02.256Z'
+datePublished: '2016-04-25T11:05:59.971Z'
+dateModified: '2016-04-25T11:05:22.614Z'
 starred: false
 sourcePath: _posts/2016-04-25-skull-pendant.md
 published: true
