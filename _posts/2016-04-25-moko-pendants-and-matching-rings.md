@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/ZaxQggXisq4'
 title: 'Moko Pendants & Matching Rings'
-datePublished: '2016-04-25T10:40:01.649Z'
-dateModified: '2016-04-25T09:41:21.183Z'
+datePublished: '2016-04-25T11:08:50.594Z'
+dateModified: '2016-04-25T10:55:32.153Z'
 starred: false
 sourcePath: _posts/2016-04-25-moko-pendants-and-matching-rings.md
 published: true
