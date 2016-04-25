@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/29cEg_hviuc'
 title: Skull Rings
-datePublished: '2016-04-25T10:51:32.323Z'
-dateModified: '2016-04-25T10:45:07.441Z'
+datePublished: '2016-04-25T11:05:51.533Z'
+dateModified: '2016-04-25T10:54:12.107Z'
 starred: false
 sourcePath: _posts/2016-04-25-skull-rings.md
 published: true
