@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/BTBql5CZLN0'
 title: Nouveau ring 2 YouTube
-datePublished: '2016-04-25T10:51:06.983Z'
-dateModified: '2016-04-25T10:44:56.638Z'
+datePublished: '2016-04-25T11:07:43.760Z'
+dateModified: '2016-04-25T10:55:04.034Z'
 starred: false
 sourcePath: _posts/2016-04-25-nouveau-ring-2-youtube.md
 published: true
