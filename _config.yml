@@ -1,0 +1,28 @@
+name: brayheta
+favicon: null
+layout_spectrum: 0.89320497517474
+typography_spectrum: 0.5933701435569674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6803391997236758
+  lightness: 0.4837402405682951
+  saturation: 0.9135437852237374
+  rhythmicContrast: 0.3260172540321946
+purpose: []
