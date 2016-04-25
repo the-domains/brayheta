@@ -14,8 +14,8 @@ description: www.tribalcreations.com.au
 app_links: []
 isBasedOnUrl: 'https://youtu.be/c4WF2vl_aOU'
 title: Nouveau Ring YouTube
-datePublished: '2016-04-25T10:50:54.791Z'
-dateModified: '2016-04-25T10:50:26.868Z'
+datePublished: '2016-04-25T11:08:14.972Z'
+dateModified: '2016-04-25T10:55:12.053Z'
 starred: false
 sourcePath: _posts/2016-04-25-nouveau-ring-youtube.md
 published: true
