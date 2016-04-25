@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/Q94HIDR8wyY'
 title: Moko Rings YouTube
-datePublished: '2016-04-25T10:38:11.548Z'
-dateModified: '2016-04-25T09:40:58.661Z'
+datePublished: '2016-04-25T11:08:42.903Z'
+dateModified: '2016-04-25T10:54:54.557Z'
 starred: false
 sourcePath: _posts/2016-04-25-moko-rings-youtube.md
 published: true
