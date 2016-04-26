@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anthony Bray-Heta
-    url: 'https://www.youtube.com/user/tribalart88'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/m30A2TViOt4'
+inLanguage: en
 keywords:
   - duration
   - jade
@@ -20,8 +15,14 @@ keywords:
   - yesteryear
   - bracelet
   - rings
-description: Uploaded by Anthony Bray-Heta on 2015-06-13.
-inLanguage: en
+description: 'Click the link to place your order for sterling silver dragon ring: http://bit.ly/1VUA9Ic   Payment Plan Option: http://bit.ly/1qPoJsp'
+datePublished: '2016-04-26T13:51:42.161Z'
+dateModified: '2016-04-26T13:51:41.402Z'
+author:
+  - name: Anthony Bray-Heta
+    url: 'https://www.youtube.com/user/tribalart88'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=m30A2TViOt4&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/m30A2TViOt4'
 title: 'Sterling Silver & Bronze Dragon Rings'
-datePublished: '2016-04-25T11:07:12.426Z'
-dateModified: '2016-04-25T09:56:53.068Z'
-starred: false
 sourcePath: _posts/2016-04-25-sterling-silver-and-bronze-dragon-rings.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
