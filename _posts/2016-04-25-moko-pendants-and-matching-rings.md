@@ -15,9 +15,9 @@ keywords:
   - fencekid
   - luckypennyshop
   - anthony
-description: 'Click the link to place your order for the Parata Pendants: http://bit.ly/1Nwl8Ke'
-datePublished: '2016-04-26T13:17:09.222Z'
-dateModified: '2016-04-26T13:13:19.449Z'
+description: 'Click the link to place your order for a Parata Pendants: http://bit.ly/1Nwl8Ke   The Warrior or The Peacemaker Rings: http://bit.ly/1WR9Zpv Payment Plan Option: http://bit.ly/233kt4x'
+datePublished: '2016-04-26T13:53:39.448Z'
+dateModified: '2016-04-26T13:53:04.005Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
