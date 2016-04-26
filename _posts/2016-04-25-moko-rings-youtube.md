@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anthony Bray-Heta
-    url: 'https://www.youtube.com/user/tribalart88'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/Q94HIDR8wyY'
+inLanguage: en
 keywords:
   - moko
   - duration
@@ -20,8 +15,14 @@ keywords:
   - ring
   - aldub
   - japanese
-description: www.tribalcreations.com.au
-inLanguage: en
+description: ' The Warrior, The Wahine or The Peacemaker Rings: http://bit.ly/1WR9Zpv Payment Plan Option: http://bit.ly/233kt4x'
+datePublished: '2016-04-26T13:58:41.944Z'
+dateModified: '2016-04-26T13:58:38.911Z'
+author:
+  - name: Anthony Bray-Heta
+    url: 'https://www.youtube.com/user/tribalart88'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Q94HIDR8wyY&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/Q94HIDR8wyY'
 title: Moko Rings YouTube
-datePublished: '2016-04-25T11:08:42.903Z'
-dateModified: '2016-04-25T10:54:54.557Z'
-starred: false
 sourcePath: _posts/2016-04-25-moko-rings-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
