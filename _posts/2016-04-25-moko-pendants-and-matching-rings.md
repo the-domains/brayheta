@@ -16,8 +16,8 @@ keywords:
   - luckypennyshop
   - anthony
 description: 'Click the link to place your order for the Parata Pendants: http://bit.ly/1Nwl8Ke'
-datePublished: '2016-04-26T13:13:09.931Z'
-dateModified: '2016-04-26T13:13:05.173Z'
+datePublished: '2016-04-26T13:17:09.222Z'
+dateModified: '2016-04-26T13:13:19.449Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
