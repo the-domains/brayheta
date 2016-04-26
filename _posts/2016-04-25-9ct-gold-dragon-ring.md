@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://youtu.be/F5Iq13nWYVE'
 inLanguage: null
 keywords: []
 description: '9ct Gold Dragon Ring, full detail sculpture of a dragon. Place your order today and be sure to contact me with your finger size for a custom made fit? http://bit.ly/1Taucky'
-datePublished: '2016-04-26T05:39:23.472Z'
-dateModified: '2016-04-26T05:37:13.055Z'
+datePublished: '2016-04-26T06:00:27.395Z'
+dateModified: '2016-04-26T06:00:06.953Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
