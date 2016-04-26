@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/F5Iq13nWYVE'
+inLanguage: null
+keywords: []
+description: '9ct Gold Dragon Ring, full detail sculpture of a dragon. Place your order today and be sure to contact me with your finger size for a custom made fit? http://bit.ly/1Taucky'
+datePublished: '2016-04-26T05:37:04.065Z'
+dateModified: '2016-04-26T05:35:16.986Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
-keywords: []
-description: Uploaded by Anthony Bray-Heta on 2016-03-19.
 app_links: []
-isBasedOnUrl: 'https://youtu.be/F5Iq13nWYVE'
 title: 9ct Gold Dragon Ring
-datePublished: '2016-04-25T11:07:25.422Z'
-dateModified: '2016-04-25T09:57:16.388Z'
-starred: false
 sourcePath: _posts/2016-04-25-9ct-gold-dragon-ring.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
