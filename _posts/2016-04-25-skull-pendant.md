@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anthony Bray-Heta
-    url: 'https://www.youtube.com/user/tribalart88'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/7clpHsIOMzM'
+inLanguage: en
 keywords:
   - pendant
   - duration
@@ -20,8 +15,14 @@ keywords:
   - anthony
   - necklace
   - ring
-description: Uploaded by Anthony Bray-Heta on 2015-05-29.
-inLanguage: en
+description: Sterling silver skull pendant
+datePublished: '2016-04-27T13:05:44.774Z'
+dateModified: '2016-04-27T00:04:45.346Z'
+author:
+  - name: Anthony Bray-Heta
+    url: 'https://www.youtube.com/user/tribalart88'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7clpHsIOMzM&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/7clpHsIOMzM'
 title: Skull Pendant
-datePublished: '2016-04-25T11:05:59.971Z'
-dateModified: '2016-04-25T11:05:22.614Z'
-starred: false
 sourcePath: _posts/2016-04-25-skull-pendant.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
