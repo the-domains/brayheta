@@ -16,8 +16,8 @@ keywords:
   - luckypennyshop
   - anthony
 description: 'Click the link to place your order for a Parata Pendants: http://bit.ly/1Nwl8Ke   The Warrior or The Peacemaker Rings: http://bit.ly/1WR9Zpv Payment Plan Option: http://bit.ly/233kt4x'
-datePublished: '2016-04-26T13:56:59.667Z'
-dateModified: '2016-04-26T13:53:48.978Z'
+datePublished: '2016-04-27T00:00:15.495Z'
+dateModified: '2016-04-26T13:57:08.761Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
