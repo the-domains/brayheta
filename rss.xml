@@ -4,7 +4,7 @@
         <description><![CDATA[Anthony Bray-Heta Jewellery Designer]]></description>
         <link>https://thegrid.ai/brayheta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 13:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 13:06:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brayheta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/brayheta/eef88c67-58cd-421c-9809-da81672094ff/index.html</link>
             <guid isPermaLink="false">eef88c67-58cd-421c-9809-da81672094ff</guid>
             <pubDate>Mon, 25 Apr 2016 09:46:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skull Pendant]]></title>
+            <description><![CDATA[<article><h1>Skull Pendant</h1><p>Sterling silver skull pendant</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0ecd1633e1741d4941aa8fd163f575310aada33.jpg"></article>]]></description>
+            <link>https://youtu.be/7clpHsIOMzM</link>
+            <guid isPermaLink="false">e4d965f7-68e6-4905-942e-aae0dcc5facf</guid>
+            <pubDate>Wed, 27 Apr 2016 13:05:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Koru Pendants]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/c4WF2vl_aOU</link>
             <guid isPermaLink="false">e03a9802-b0fd-4dd1-b016-d50ca6b3ca72</guid>
             <pubDate>Mon, 25 Apr 2016 11:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nouveau ring 2 YouTube]]></title>
-            <description><![CDATA[<article><h1>Nouveau ring 2 YouTube</h1><p>www.tribalcreations.com.au</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92bbef995fd2505a6a5216f26c131579d441d1cc.jpg"></article>]]></description>
-            <link>https://youtu.be/BTBql5CZLN0</link>
-            <guid isPermaLink="false">64bd42ea-b820-4497-b2a3-bf302245e53b</guid>
-            <pubDate>Mon, 25 Apr 2016 11:07:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
