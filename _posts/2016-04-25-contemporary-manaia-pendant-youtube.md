@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/zpO7fBUKVBg'
+inLanguage: null
+keywords: []
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-27T12:52:24.279Z'
+dateModified: '2016-04-27T00:09:30.344Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
-keywords: []
-description: www.tribalcreations.com
 app_links: []
-isBasedOnUrl: 'https://youtu.be/zpO7fBUKVBg'
 title: Contemporary Manaia Pendant YouTube
-datePublished: '2016-04-25T11:00:32.397Z'
-dateModified: '2016-04-25T09:57:47.396Z'
-starred: false
 sourcePath: _posts/2016-04-25-contemporary-manaia-pendant-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
