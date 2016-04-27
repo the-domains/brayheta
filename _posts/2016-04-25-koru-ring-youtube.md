@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/Is5nea-p4mw'
+inLanguage: null
+keywords: []
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-27T13:10:39.507Z'
+dateModified: '2016-04-27T00:06:11.118Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
-keywords: []
-description: www.tribalcreations.com.au
 app_links: []
-isBasedOnUrl: 'https://youtu.be/Is5nea-p4mw'
 title: Koru Ring YouTube
-datePublished: '2016-04-25T11:08:24.206Z'
-dateModified: '2016-04-25T10:54:22.976Z'
-starred: false
 sourcePath: _posts/2016-04-25-koru-ring-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
