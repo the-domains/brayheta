@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/b-V3GFmuzjs'
+inLanguage: null
+keywords: []
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-28T22:21:13.521Z'
+dateModified: '2016-04-28T22:21:12.837Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
-keywords: []
-description: www.tribalcreations.com.au
 app_links: []
-isBasedOnUrl: 'https://youtu.be/b-V3GFmuzjs'
 title: Dragon Bangle YouTube
-datePublished: '2016-04-25T11:06:34.320Z'
-dateModified: '2016-04-25T09:56:24.834Z'
-starred: false
 sourcePath: _posts/2016-04-25-dragon-bangle-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
