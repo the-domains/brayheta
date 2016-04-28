@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anthony Bray-Heta
-    url: 'https://www.youtube.com/user/tribalart88'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/BTBql5CZLN0'
+inLanguage: en
 keywords:
   - duration
   - views
@@ -20,8 +15,14 @@ keywords:
   - dragon
   - rings
   - movieclips
-description: www.tribalcreations.com.au
-inLanguage: en
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-28T22:18:06.279Z'
+dateModified: '2016-04-28T22:18:05.612Z'
+author:
+  - name: Anthony Bray-Heta
+    url: 'https://www.youtube.com/user/tribalart88'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=BTBql5CZLN0&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/BTBql5CZLN0'
 title: Nouveau ring 2 YouTube
-datePublished: '2016-04-25T11:07:43.760Z'
-dateModified: '2016-04-25T10:55:04.034Z'
-starred: false
 sourcePath: _posts/2016-04-25-nouveau-ring-2-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
