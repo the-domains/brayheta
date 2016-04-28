@@ -16,8 +16,8 @@ keywords:
   - necklace
   - ring
 description: Sterling silver skull pendant
-datePublished: '2016-04-27T13:05:44.774Z'
-dateModified: '2016-04-27T00:04:45.346Z'
+datePublished: '2016-04-28T22:18:22.097Z'
+dateModified: '2016-04-28T22:18:21.421Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
