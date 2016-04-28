@@ -16,8 +16,8 @@ keywords:
   - aldub
   - japanese
 description: ' The Warrior, The Wahine or The Peacemaker Rings: http://bit.ly/1WR9Zpv Payment Plan Option: http://bit.ly/233kt4x'
-datePublished: '2016-04-26T13:58:41.944Z'
-dateModified: '2016-04-26T13:58:38.911Z'
+datePublished: '2016-04-28T22:21:31.636Z'
+dateModified: '2016-04-28T22:21:30.986Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
