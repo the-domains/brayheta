@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/y1_-6duYvoI'
+inLanguage: null
+keywords: []
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-28T22:20:15.585Z'
+dateModified: '2016-04-28T22:20:14.959Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
-keywords: []
-description: Uploaded by Anthony Bray-Heta on 2015-06-26.
 app_links: []
-isBasedOnUrl: 'https://youtu.be/y1_-6duYvoI'
 title: "Tangaroa's Ocean Unfolding"
-datePublished: '2016-04-25T11:00:53.640Z'
-dateModified: '2016-04-25T09:57:58.903Z'
-starred: false
 sourcePath: _posts/2016-04-25-tangaroas-ocean-unfolding.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
