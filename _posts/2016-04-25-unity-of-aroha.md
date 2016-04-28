@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anthony Bray-Heta
-    url: 'https://www.youtube.com/user/tribalart88'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/C22rUA1ssFA'
+inLanguage: en
 keywords:
   - duration
   - aroha
@@ -20,8 +15,14 @@ keywords:
   - ruha
   - tangata
   - unity
-description: Uploaded by Anthony Bray-Heta on 2015-08-04.
-inLanguage: en
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-28T22:20:00.241Z'
+dateModified: '2016-04-28T22:19:59.538Z'
+author:
+  - name: Anthony Bray-Heta
+    url: 'https://www.youtube.com/user/tribalart88'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=C22rUA1ssFA&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/C22rUA1ssFA'
 title: Unity of Aroha
-datePublished: '2016-04-25T11:01:22.737Z'
-dateModified: '2016-04-25T09:58:24.175Z'
-starred: false
 sourcePath: _posts/2016-04-25-unity-of-aroha.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
