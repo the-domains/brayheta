@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Anthony Bray-Heta
-    url: 'https://www.youtube.com/user/tribalart88'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: youtu.be
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/spSI-LOM-RI'
+inLanguage: en
 keywords:
   - pendants
   - duration
@@ -20,8 +15,14 @@ keywords:
   - bray-heta
   - jewellery
   - lynzcraftz
-description: www.tribalcreations.com.au
-inLanguage: en
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-28T22:21:23.271Z'
+dateModified: '2016-04-28T22:21:22.565Z'
+author:
+  - name: Anthony Bray-Heta
+    url: 'https://www.youtube.com/user/tribalart88'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=spSI-LOM-RI&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/spSI-LOM-RI'
 title: Dragon Pendants YouTube
-datePublished: '2016-04-25T11:06:16.937Z'
-dateModified: '2016-04-25T09:56:17.705Z'
-starred: false
 sourcePath: _posts/2016-04-25-dragon-pendants-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
