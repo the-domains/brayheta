@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://youtu.be/c4WF2vl_aOU'
+inLanguage: null
+keywords: []
+description: 'https://www.facebook.com/TribalCreations'
+datePublished: '2016-04-28T22:17:51.362Z'
+dateModified: '2016-04-28T22:17:50.683Z'
 author:
   - name: Anthony Bray-Heta
     url: 'https://www.youtube.com/user/tribalart88'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtu.be
-keywords: []
-description: www.tribalcreations.com.au
 app_links: []
-isBasedOnUrl: 'https://youtu.be/c4WF2vl_aOU'
 title: Nouveau Ring YouTube
-datePublished: '2016-04-25T11:08:14.972Z'
-dateModified: '2016-04-25T10:55:12.053Z'
-starred: false
 sourcePath: _posts/2016-04-25-nouveau-ring-youtube.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
