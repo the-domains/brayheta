@@ -23,7 +23,7 @@ color:
     - '#202020'
     - '#2c2c2c'
   brandStrength: 0
-  lightness: 0
-  saturation: 0.6875
+  lightness: 0.125
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
